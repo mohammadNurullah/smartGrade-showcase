@@ -1,0 +1,220 @@
+{
+  "classOne": [
+    {
+      "id": 1,
+      "name": "Emily Johnson",
+      "url": "/class-one/1.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 2,
+      "name": "Alex Rodriguez",
+      "url": "/class-one/2.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 3,
+      "name": "Ethan Thompson",
+      "url": "/class-one/3.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 4,
+      "name": "Olivia Davis",
+      "url": "/class-one/4.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 5,
+      "name": "Mason Patel",
+      "url": "/class-one/5.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 6,
+      "name": "Ava Chen",
+      "url": "/class-one/6.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 7,
+      "name": "Noah Wilson",
+      "url": "/class-one/7.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 8,
+      "name": "Sophia Kim",
+      "url": "/class-one/8.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 9,
+      "name": "Jackson Smith",
+      "url": "/class-one/9.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 10,
+      "name": "Mia Gupta",
+      "url": "/class-one/10.png",
+      "score": "A+",
+      "percentage": "98%"
+    }
+  ],
+
+  "classTwo": [
+    {
+      "id": 1,
+      "name": "Isabella Nguyen",
+      "url": "/class-two/1.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 2,
+      "name": "Aiden Brown",
+      "url": "/class-two/2.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 3,
+      "name": "Chloe Patel",
+      "url": "/class-two/3.jpg",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 4,
+      "name": "Lucas Hernandez",
+      "url": "/class-two/4.jpg",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 5,
+      "name": "Harper Lee",
+      "url": "/class-two/5.jpg",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 6,
+      "name": "Caleb Kumar",
+      "url": "/class-two/6.jpg",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 7,
+      "name": "Evelyn Jones",
+      "url": "/class-two/7.jpg",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 8,
+      "name": "Benjamin Chen",
+      "url": "/class-two/8.jpg",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 9,
+      "name": "Lily Robinson",
+      "url": "/class-two/9.jpg",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 10,
+      "name": "Harper Bennett",
+      "url": "/class-two/10.png",
+      "score": "A+",
+      "percentage": "98%"
+    }
+  ],
+
+  "classThree": [
+    {
+      "id": 1,
+      "name": "Sophia Turner",
+      "url": "/class-three/1.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 2,
+      "name": "Carter Mitchell",
+      "url": "/class-three/2.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 3,
+      "name": "Ava Walker",
+      "url": "/class-three/3.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 4,
+      "name": "Liam Foster",
+      "url": "/class-three/4.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 5,
+      "name": "Grace Thompson",
+      "url": "/class-three/5.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 6,
+      "name": "Noah Hayes",
+      "url": "/class-three/6.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 7,
+      "name": "Isabella Morgan",
+      "url": "/class-three/7.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 8,
+      "name": "Ethan Brooks",
+      "url": "/class-three/8.jpg",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 9,
+      "name": "Mia Campbell",
+      "url": "/class-three/9.png",
+      "score": "A+",
+      "percentage": "98%"
+    },
+    {
+      "id": 10,
+      "name": "Lucas Porter",
+      "url": "/class-three/10.jpg",
+      "score": "A+",
+      "percentage": "98%"
+    }
+  ]
+}
